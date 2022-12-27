@@ -63,3 +63,8 @@ Este roadmap foi desenvolvido para as pessoas aprenderem a programar pensando na
 - [ ] Data Analysis → [https://www.udemy.com/course/data-analysis-and-visualization-tools/](https://www.udemy.com/course/data-analysis-and-visualization-tools/)
 - [ ] Formação CIentista de Dados → [https://www.udemy.com/course/cientista-de-dados/](https://www.udemy.com/course/cientista-de-dados/)
 - [ ] Optimizations → [https://www.udemy.com/course/optimization-with-python-linear-nonlinear-and-cplex-gurobi/](https://www.udemy.com/course/optimization-with-python-linear-nonlinear-and-cplex-gurobi/)
+
+---
+
+**Canais do Youtube**
+The Roadmap → [https://www.youtube.com/theroadmap]
