@@ -2,6 +2,7 @@
 
 - [ ] Português prático - direto ao ponto → [https://www.udemy.com/course/portuguespratico/](https://www.udemy.com/course/portuguespratico/)
 - [ ] Aprenda Matemática básica do zero ao avançado → [https://www.udemy.com/course/aprenda-matematica-basica-do-zero-ao-avancado/](https://www.udemy.com/course/aprenda-matematica-basica-do-zero-ao-avancado/)
+- [ ] Inglês Extremo - Curso Completo do Zero à Fluência → [https://www.udemy.com/course/inglesextremo/](https://www.udemy.com/course/inglesextremo/)
 
 ---
 
