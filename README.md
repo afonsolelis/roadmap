@@ -9,6 +9,7 @@
 **Técnicos**
 
 - [ ] Mastering Data Structures & Algorithms using C and C++ → [https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/](https://www.udemy.com/course/datastructurescncpp/)
+- [ ] C# → [https://www.udemy.com/course/complete-csharp-masterclass/](https://www.udemy.com/course/complete-csharp-masterclass/)
 - [ ] Estrutura de Dados → [https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/)
 - [ ] POO → [https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/java-curso-completo/)
 - [ ] Modelagem de sistemas → [https://www.udemy.com/course/uml-modelagem-de-software-do-inicio-ao-fim/](https://www.udemy.com/course/uml-modelagem-de-software-do-inicio-ao-fim/)
@@ -24,8 +25,9 @@
 - [ ] Sistemas Operacionais 2 → [https://www.udemy.com/course/operatingsystems/](https://www.udemy.com/course/operatingsystems/)
 - [ ] Sistemas Operacionais 3 → [https://www.udemy.com/course/operating-systems-online-course/](https://www.udemy.com/course/operating-systems-online-course/)
 - [ ] Sistemas Operacionais 4 → [https://www.udemy.com/course/operating-systems-computer-science-course/](https://www.udemy.com/course/operating-systems-computer-science-course/)
-- API REST → [https://www.udemy.com/course/api-restful-de-vendas/](https://www.udemy.com/course/api-restful-de-vendas/)
-- NestJS → [https://www.udemy.com/course/nestjs-do-zero/](https://www.udemy.com/course/nestjs-do-zero/)
+- [ ] API REST → [https://www.udemy.com/course/api-restful-de-vendas/](https://www.udemy.com/course/api-restful-de-vendas/)
+- [ ] NestJS → [https://www.udemy.com/course/nestjs-do-zero/](https://www.udemy.com/course/nestjs-do-zero/)
+- [ ] React do Zero a Maestria (c/ hooks, router, API, Projetos) → [https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/)
 - [ ] AWS 4 certifications → [https://www.udemy.com/course/aws-certified-associate-architect-developer-sysops-admin/](https://www.udemy.com/course/aws-certified-associate-architect-developer-sysops-admin/)
 - [ ] Soluctions Architect AWS → [https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 - [ ] Edge Computing → [https://www.udemy.com/course/introduction-to-edge-computing/](https://www.udemy.com/course/introduction-to-edge-computing/)
@@ -35,8 +37,8 @@
 
 **Gestão de Times e Tarefas**
 
-- [ ] Métodos Ágeis → [https://www.udemy.com/course/metodos-ageis/](https://www.udemy.com/course/metodos-ageis/) \*Revisão
-- [ ] Gestão de times ágeis → [https://www.udemy.com/course/gestao-projetos-agile-scrum-completo/](https://www.udemy.com/course/gestao-projetos-agile-scrum-completo/) \*Revisão
+- [ ] Métodos Ágeis → [https://www.udemy.com/course/metodos-ageis/](https://www.udemy.com/course/metodos-ageis/)
+- [ ] Gestão de times ágeis → [https://www.udemy.com/course/gestao-projetos-agile-scrum-completo/](https://www.udemy.com/course/gestao-projetos-agile-scrum-completo/) 
 - [ ] StoryTelling → [https://www.udemy.com/course/historiaeroteiro/](https://www.udemy.com/course/historiaeroteiro/)
 
 ---
@@ -45,7 +47,6 @@
 
 - [ ] Rails Code Along → [https://www.udemy.com/course/professional-ruby-on-rails-coding-course/](https://www.udemy.com/course/professional-ruby-on-rails-coding-course/)
 - [ ] Security → [https://www.udemy.com/course/securityplus/](https://www.udemy.com/course/securityplus/)
-- [ ] C# → [https://www.udemy.com/course/complete-csharp-masterclass/](https://www.udemy.com/course/complete-csharp-masterclass/)
 - [ ] Computational Thinking → [https://www.udemy.com/course/computational-thinking-in-python/](https://www.udemy.com/course/computational-thinking-in-python/)
 
 ---
