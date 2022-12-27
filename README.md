@@ -69,6 +69,7 @@ Este roadmap foi desenvolvido para as pessoas aprenderem a programar pensando na
 **Canais do Youtube**
 
 The Roadmap → https://www.youtube.com/theroadmap
+
 Free Code Camp → https://www.youtube.com/@freecodecamp
 
 ---
