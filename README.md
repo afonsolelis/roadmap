@@ -81,56 +81,6 @@ Free Code Camp → https://www.youtube.com/@freecodecamp
 
 [News Hacker e Eventos](https://wagnerfusca.github.io/eventos/)
 
-### https://github.com/arbox/data-science-with-ruby
+[Ciência de Dados com Ruby](https://github.com/arbox/data-science-with-ruby)
 
-### https://github.com/Universidade-Livre/ciencia-da-computacao
-
-- **Configuração WSL e Ubuntu**
-    
-    ```
-    PowerShell windows 11
-    wsl --install
-    
-    Ubuntu
-    code --install-extension ms-vscode-remote.remote-wsl
-    
-    code --install-extension ms-vscode.sublime-keybindings
-    code --install-extension emmanuelbeziat.vscode-great-icons
-    code --install-extension github.github-vscode-theme
-    
-    sudo apt update
-    sudo apt install -y curl git imagemagick jq unzip vim zsh
-    
-    sudo apt remove -y gitsome # gh command can conflict with gitsome if already installed
-    curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
-    echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
-    sudo apt update
-    sudo apt install -y gh
-    
-    gh --version
-    
-    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-    
-    gh auth login -s 'user:email' -w
-    
-    gh auth status
-    
-    export GITHUB_USERNAME=`gh api user | jq -r '.login'`
-    echo $GITHUB_USERNAME
-    
-    mkdir -p ~/code/$GITHUB_USERNAME && cd $_
-    gh repo fork lewagon/dotfiles --clone
-    
-    cd ~/code/$GITHUB_USERNAME/dotfiles
-    zsh install.sh
-    
-    gh api user/emails | jq -r '.[].email'
-    
-    cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-    
-    exec zsh
-    
-    code ~/.zshrc + plugins=(gitfast last-working-dir common-aliases zsh-syntax-highlighting history-substring-search pyenv ssh-agent)
-    ```
-    
-- Catálogos
+[Universidade Livre - Ciência da Computação](https://github.com/Universidade-Livre/ciencia-da-computacao)
