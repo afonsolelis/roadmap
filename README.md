@@ -3,6 +3,7 @@
 - [ ] Português prático - direto ao ponto → [https://www.udemy.com/course/portuguespratico/](https://www.udemy.com/course/portuguespratico/)
 - [ ] Aprenda Matemática básica do zero ao avançado → [https://www.udemy.com/course/aprenda-matematica-basica-do-zero-ao-avancado/](https://www.udemy.com/course/aprenda-matematica-basica-do-zero-ao-avancado/)
 - [ ] Inglês Extremo - Curso Completo do Zero à Fluência → [https://www.udemy.com/course/inglesextremo/](https://www.udemy.com/course/inglesextremo/)
+- [ ] Lógica de Programação Para Iniciantes e Estudantes → [https://www.udemy.com/course/logica-de-programacao-java-python-visualg-e-javascript/](https://www.udemy.com/course/logica-de-programacao-java-python-visualg-e-javascript/)
 
 ---
 
