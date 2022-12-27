@@ -1,5 +1,13 @@
+**Base**
+
+- [ ] Português prático - direto ao ponto → [https://www.udemy.com/course/portuguespratico/](https://www.udemy.com/course/portuguespratico/)
+- [ ] Aprenda Matemática básica do zero ao avançado → [https://www.udemy.com/course/aprenda-matematica-basica-do-zero-ao-avancado/](https://www.udemy.com/course/aprenda-matematica-basica-do-zero-ao-avancado/)
+
+---
+
 **Técnicos**
 
+- [ ] Mastering Data Structures & Algorithms using C and C++ → [https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/](https://www.udemy.com/course/datastructurescncpp/)
 - [ ] Estrutura de Dados → [https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/)
 - [ ] POO → [https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/java-curso-completo/)
 - [ ] Modelagem de sistemas → [https://www.udemy.com/course/uml-modelagem-de-software-do-inicio-ao-fim/](https://www.udemy.com/course/uml-modelagem-de-software-do-inicio-ao-fim/)
@@ -9,6 +17,7 @@
 - [ ] Oracle Tunning → [https://www.udemy.com/course/sql-performance-tuning-masterclass/](https://www.udemy.com/course/sql-performance-tuning-masterclass/)
 - [ ] Testing → [https://www.udemy.com/course/software-testing-and-career-in-qa/](https://www.udemy.com/course/software-testing-and-career-in-qa/)
 - [ ] Patterns → [https://www.udemy.com/course/padroes-de-projeto-com-python/](https://www.udemy.com/course/padroes-de-projeto-com-python/)
+- [ ] Docker para Iniciantes de Infraestrutura → [[https://www.udemy.com/course/padroes-de-projeto-com-python/](https://www.udemy.com/course/docker-containers-e-monitoramento/?src=sac&kw=infraestrutura+para)](https://www.udemy.com/course/docker-containers-e-monitoramento/?src=sac&kw=infraestrutura+para)
 - [ ] DevOps → [https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/](https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher/)
 - [ ] Sistemas Operacionais 1 → [https://www.udemy.com/course/operating-systems-from-scratch-part1/](https://www.udemy.com/course/operating-systems-from-scratch-part1/)
 - [ ] Sistemas Operacionais 2 → [https://www.udemy.com/course/operatingsystems/](https://www.udemy.com/course/operatingsystems/)
