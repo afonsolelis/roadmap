@@ -1,4 +1,5 @@
 **Introdução**
+
 Este roadmap foi desenvolvido para as pessoas aprenderem a programar pensando na lógica de base e entendendo como as arquiteturas são pensadas. Serve muito bem para reforço de sua faculdade ou bootcamp. É muito importante se dedicar ao inglês para ser bem sucedido na área, assim como ter uma boa base de comunicação em nossa lingua nativa, por isso coloquei a etapa de **Base**. Lembre-se que 50% de todo o seu trabalho como programador será pensar em resolver problemas e não apenas gerar código, e para isso a comunicação de tarefas e entendimento de seu cliente externo ou interno deve ser exemplar.
 
 **Base**
