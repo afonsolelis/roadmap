@@ -8,7 +8,7 @@
 
 **Técnicos**
 
-- [ ] Mastering Data Structures & Algorithms using C and C++ → [https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/](https://www.udemy.com/course/datastructurescncpp/)
+- [ ] Mastering Data Structures & Algorithms using C and C++ → [https://www.udemy.com/course/datastructurescncpp/](https://www.udemy.com/course/datastructurescncpp/)
 - [ ] C# → [https://www.udemy.com/course/complete-csharp-masterclass/](https://www.udemy.com/course/complete-csharp-masterclass/)
 - [ ] Estrutura de Dados → [https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/)
 - [ ] POO → [https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/java-curso-completo/)
